@@ -1,0 +1,26 @@
+[
+    {
+      "id": 5,
+      "descricao": "laboratorio",
+      "mes": "outubro",
+      "custo": "R$300,00"
+    },
+    {
+      "id": 5.1,
+      "descricao": "lixo",
+      "mes": "outubro",
+      "custo": "R$150,00"
+    },
+    {
+      "id": 5.2,
+      "descricao": "salarios",
+      "mes": "outubro",
+      "custo": "R$5000,00"
+    },
+    {
+      "id": 5.3,
+      "descricao": "luz",
+      "mes": "outubro",
+      "custo": "R$200,00"
+    }
+  ]
